@@ -1,0 +1,30 @@
+body {
+    margin: 5px;
+    padding: 5px;
+    background-color: lightskyblue;
+}
+#fullpage {
+    color:brown;
+}
+.d {
+    color: darkred;
+    text-align: left;
+}
+.label {
+    
+    font-weight: bold;
+    color:darkgreen;
+    font-size: 20px;
+    
+
+}
+
+#email,#password,#phone {
+    color: black;
+}
+.h4 {
+
+    margin-left: 100px;
+    margin-top: 50px;
+    
+}
